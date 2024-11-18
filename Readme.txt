@@ -3,6 +3,7 @@
 
 Raccoon Tools 2019 är ett portabelt allt-i-ett-verktyg som förenklar hanteringen av Windows
 
+Ladda ner "Raccoon Tools v2.1.zip" och kör setup.exe
 
 
 
